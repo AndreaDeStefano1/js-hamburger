@@ -1,6 +1,6 @@
 
   // onclick="document.getElementById('id1').style.color = 'red'">
-  let apri = document.querySelector('i');
+  let apri = document.querySelector('.fa-bars');
   let chiudi = document.querySelector('.close');
   let burger = document.querySelector('.hamburger-menu');
   
